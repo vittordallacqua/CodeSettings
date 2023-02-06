@@ -1,1 +1,1 @@
-## ⚙️ My VSCode settings :)) 
+### ⚙️ My VSCode settings >:)
