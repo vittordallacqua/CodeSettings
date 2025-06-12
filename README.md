@@ -1,1 +1,1 @@
-### VS Code settings ⚙️
+### ⚙️ VS Code settings
